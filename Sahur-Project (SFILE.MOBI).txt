@@ -1,0 +1,13 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install bash
+$ pkg install git
+$ git clone https://github.com/Sxp-ID/Sahur-Project
+$ cd Sahur-Project
+$ bash install.sh
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !
